@@ -1,7 +1,7 @@
 # Pantheon Decoupled Kit Next WordPress Starter
 ----------------------------------
 ## Getting Started
-
+----------------------------------
 To get started with the Next Wordpress Starter, use our
 `create-pantheon-decoupled-kit`, or the "CLI". Full documentation for this npm
 package based on [npm init](https://docs.npmjs.com/cli/v8/commands/npm-init) can
